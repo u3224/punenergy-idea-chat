@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
-    "openai": "latest"
+    "openai": "latest",
+    "xlsx": "latest",
+    "xlsx-calc": "latest"
   }
 }
